@@ -8,3 +8,5 @@
 - [2.5 - Sort Algorithm - Recursion](https://github.com/pv-cunha/data-structures-and-algorithms/tree/master/2.5-sort-algorithm-recursion)
 - [2.6 - Sort Algorithm - Merge Sort](https://github.com/pv-cunha/data-structures-and-algorithms/tree/master/2.6-sort-algorithm-merge-sort)
 - [2.7 - Sort Algorithm - Quick Sort](https://github.com/pv-cunha/data-structures-and-algorithms/tree/master/2.7-sort-algorithm-quick-sort)
+- [2.8 - Sort Algorithm - Counting Sort](https://github.com/pv-cunha/data-structures-and-algorithms/tree/master/2.8-sort-algorithm-counting-sort)
+- [2.9 - Sort Algorithm - Radix Sort](https://github.com/pv-cunha/data-structures-and-algorithms/tree/master/2.9-sort-algorithm-radix-sort)
