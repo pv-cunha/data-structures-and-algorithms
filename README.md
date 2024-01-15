@@ -11,3 +11,4 @@
 - [2.8 - Sort Algorithm - Counting Sort](https://github.com/pv-cunha/data-structures-and-algorithms/tree/master/2.8-sort-algorithm-counting-sort)
 - [2.9 - Sort Algorithm - Radix Sort](https://github.com/pv-cunha/data-structures-and-algorithms/tree/master/2.9-sort-algorithm-radix-sort)
 - [3.1 - Lists - Arrays](https://github.com/pv-cunha/data-structures-and-algorithms/tree/master/3.1-lists-arrays)
+- [3.2 - Lists - Singly Linked](https://github.com/pv-cunha/data-structures-and-algorithms/tree/master/3.2-lists-singly-linked)
